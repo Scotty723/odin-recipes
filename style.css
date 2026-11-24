@@ -1,0 +1,39 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  padding: 24px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  display: block;
+  margin: 0 auto 16px;
+  padding: 12px;
+  background-color: white;
+  border-radius: 8px;
+  max-width: 300px;
+  text-align: center;
+  font-size: 18px;
+}
+
+a:hover {
+  background-color: lightgray;
+}
+
+img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.recipe-page {
+  max-width: 800px;
+  margin: 0 auto;
+}
